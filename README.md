@@ -1,4 +1,4 @@
-# AimsirGo 🌦️🚌
+# AimsirGo 🌦️🚌 
 
 > **A real-time, weather-resilient transit routing engine for Irish commuters.**  
 > Developed by **Node4** as part of the Software Engineering module (Year 2, Computer Science & IT).
